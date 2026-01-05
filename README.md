@@ -32,6 +32,6 @@ I did not work in a formal lab or makerspace; instead, I built and tested ideas 
 
 This work was inspired by and references:
 - Haarnoja et al., *Soft Actor-Critic Algorithms and Applications*, 2018 (arXiv:1812.05905)
-- OpenAI Spinning Up (conceptual guidance and reference structure)
+- OpenAI Spinning Up (conceptual guidance and reference structure) (https://spinningup.openai.com/)
 
 All implementation decisions, architecture choices, and debugging were done independently.
