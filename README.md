@@ -17,11 +17,11 @@ This project was especially meaningful to me because it required moving fluidly 
 - implementation details (numerical stability, randomness, optimizer behavior)
 - system-level debugging (framework behavior and training dynamics)
 
-Diagnosing why the agent initially failed to learn—despite a correct conceptual implementation—taught me how small, hidden details in real systems can dominate outcomes.
+Diagnosing why the agent initially failed to learn—despite a correct conceptual implementation—taught me how small, hidden details in real systems can dominate outcomes, and gave me a new outlook into systems standardization.
 
 ## Development Environment
 
-Most of this work was done independently using:
+This work was done independently using:
 - A web browser for research and references
 - PyCharm as the primary development environment
 - TensorFlow / Keras for model construction and training
