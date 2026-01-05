@@ -8,7 +8,7 @@ from actor import Actor
 tf.random.set_seed(12)
 env = gym.make('HalfCheetah-v4', render_mode='human')
 actor = Actor(1)
-actor.policy = tf.keras.models.load_model('cp/cp_14/actor.h5')
+actor.policy = tf.keras.models.load_model('PATH/TO/MODEL')
 for _ in range(1):
     obs = env.reset()[0]
     done = False
