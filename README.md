@@ -11,7 +11,7 @@ Feature extraction from raw (x, y, t) cursor traces
 
 Supervised classification using standard ML models
 
-Evaluation with accuracy and confusion matrices
+Evaluation with accuracy and confusion metrics from Kaggle
 
 
 
