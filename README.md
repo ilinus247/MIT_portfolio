@@ -12,6 +12,6 @@ Most of my work is done independently, outside of formal labs or structured prog
 
 ## Notes for reviewers
 
-Some projects were version-controlled after initial development to make review easier. Commit history reflects documentation and cleanup rather than the full chronological development process.
+My projects were version-controlled after initial development to make review easier. Commit history reflects documentation and cleanup rather than the full chronological development process.
 
 Thank you for taking the time to review my work :)
