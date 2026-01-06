@@ -1,17 +1,17 @@
-# MIT Maker Portfolio
+# Mouse Classifier
+This project focuses on feature learning, model training, and evaluation using real-time or recorded mouse data.
 
-This repository contains selected work from my personal maker portfolio, submitted as part of my MIT application. The projects here reflect how I explore mathematics, machine learning, and software systems through independent, self-directed work.
+# Overview
+The Mouse Classifier analyzes mouse movement and predicts the class of behavior they correspond to. The goal is not only accuracy, but also robustness with limited data collected across many labs, mice living environments, and with many different mice.
 
-The primary project in this repository is a from-scratch implementation of the **Soft Actor-Critic (SAC)** reinforcement learning algorithm. Full technical details, code structure, and usage instructions are documented in the project-specific README.
+# Features
+Mouse movement data ingestion
 
-➡ **See [`sac/README.md`](./sac/README.md) for details.**
+Feature extraction from raw (x, y, t) cursor traces
 
-## How I work
+Supervised classification using standard ML models
 
-Most of my work is done independently, outside of formal labs or structured programs. I rely on a web browser for research and references and PyCharm for development. Projects are driven by curiosity and conceptual questions rather than external requirements.
+Evaluation with accuracy and confusion matrices
 
-## Notes for reviewers
 
-Some projects were version-controlled after initial development to make review easier. Commit history reflects documentation and cleanup rather than the full chronological development process.
 
-Thank you for taking the time to review my work :)
